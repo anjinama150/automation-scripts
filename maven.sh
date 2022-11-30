@@ -4,7 +4,7 @@
 rm -rf hello-world-war
 
 #cloning the central repo to local workspace
-git clone https://github.com/ddarshi97/hello-world-war.git
+git clone https://github.com/anjinama150/hello-world-war.git
 #get in to the git repo directory
 cd  hello-world-war
  
